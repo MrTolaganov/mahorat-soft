@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "portfolio": "Portfolio",
+    "services": "Xizmatlar",
+    "contact": "Aloqa",
+    "getStarted": "Boshlash"
+  },
+  "hero": {
+    "title": "MahoratSoft — Raqamli mahsulotlarning",
+    "titleHighlight": "kelajagini yaratish",
+    "subtitle": "Veb-saytlar • Mobil ilovalar • Brending • IT yechimlar",
+    "getStarted": "Boshlash",
+    "ourWorks": "Ishlarimiz"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "description": "MahoratSoft — aqlli veb-saytlar, ilovalar, CRM va IT yechimlarini yaratadigan raqamli jamoa.",
+    "feature1": {
+      "title": "Zamonaviy texnologiyalar",
+      "description": "Eng ilg'or yechimlar va dasturlash vositalaridan foydalanamiz"
+    },
+    "feature2": {
+      "title": "Tez amalga oshirish",
+      "description": "Samarali ish va muddatlarga rioya qilish"
+    },
+    "feature3": {
+      "title": "Professional jamoa",
+      "description": "Har bir sohada tajribali mutaxassislar"
+    }
+  },
+  "services": {
+    "title": "IT xizmatlar",
+    "subtitle": "Biznesingiz uchun kompleks yechimlar",
+    "webDev": {
+      "title": "Veb-saytlar",
+      "items": [
+        "Korporativ veb-saytlar",
+        "Internet-do'konlar",
+        "Landing Pages",
+        "CRM / Admin panellar"
+      ]
+    },
+    "branding": {
+      "title": "Brending",
+      "items": [
+        "Logotiplar",
+        "Firmaviy uslub",
+        "UI/UX dizayn",
+        "Gaydlaynlar"
+      ]
+    },
+    "itSolutions": {
+      "title": "IT yechimlar",
+      "items": [
+        "Telegram-botlar",
+        "Mobil ilovalar",
+        "Qo'llab-quvvatlash",
+        "DevOps"
+      ]
+    },
+    "more": "Va yana ko'p narsalar — batafsil ma'lumot uchun biz bilan bog'laning!"
+  },
+  "portfolio": {
+    "title": "Ishlarimiz",
+    "subtitle": "Turli sohalardagi muvaffaqiyatli loyihalar"
+  },
+  "contact": {
+    "title": "Aloqa",
+    "subtitle": "Biz bilan bog'laning",
+    "name": "Ism",
+    "email": "Email",
+    "message": "Xabar",
+    "send": "Yuborish",
+    "sending": "Yuborilmoqda...",
+    "success": "Xabar muvaffaqiyatli yuborildi",
+    "error": "Xatolik yuz berdi"
+  },
+  "footer": {
+    "copyright": "© 2025 MahoratSoft. Barcha huquqlar himoyalangan. O'zbekistonda yaratilgan"
+  }
+}
+

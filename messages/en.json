@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "MahoratSoft — Creating the Future",
+    "titleHighlight": "of Digital Products",
+    "subtitle": "Web Development • Mobile Apps • Branding • IT Solutions",
+    "getStarted": "Get Started",
+    "ourWorks": "Our Works"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "MahoratSoft — a digital team creating smart websites, applications, CRM and IT solutions for business.",
+    "feature1": {
+      "title": "Modern Technologies",
+      "description": "We use advanced solutions and development tools"
+    },
+    "feature2": {
+      "title": "Fast Implementation",
+      "description": "Efficient work and meeting deadlines"
+    },
+    "feature3": {
+      "title": "Professional Team",
+      "description": "Experienced specialists in every field"
+    }
+  },
+  "services": {
+    "title": "IT Services",
+    "subtitle": "Comprehensive solutions for your business",
+    "webDev": {
+      "title": "Web Development",
+      "items": [
+        "Corporate websites",
+        "E-commerce",
+        "Landing Pages",
+        "CRM / Admin panels"
+      ]
+    },
+    "branding": {
+      "title": "Branding",
+      "items": [
+        "Logos",
+        "Brand identity",
+        "UI/UX design",
+        "Guidelines"
+      ]
+    },
+    "itSolutions": {
+      "title": "IT Solutions",
+      "items": [
+        "Telegram bots",
+        "Mobile applications",
+        "Support",
+        "DevOps"
+      ]
+    },
+    "more": "And much more — contact us for details!"
+  },
+  "portfolio": {
+    "title": "Our Works",
+    "subtitle": "Our successful projects in various fields"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Message sent successfully",
+    "error": "Something went wrong"
+  },
+  "footer": {
+    "copyright": "© 2025 MahoratSoft. All rights reserved. Developed in Uzbekistan"
+  }
+}
+
