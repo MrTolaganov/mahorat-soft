@@ -3,13 +3,14 @@ import Link from "next/link";
 import ProjectCard from "@/app/admin/_components/project-card";
 import { getFeaturedProjects } from "@/actions/project.action";
 import { Metadata } from "next";
+import { Project } from "@/drizzle/schemas/project.schema";
 
 export const metadata: Metadata = {
   title: "Mahorat Soft | Dashboard",
 };
 
 export default async function AdminDashboardPage() {
-  let featuredProjects = [];
+  let featuredProjects: Project[] = [];
   
   try {
     featuredProjects = await getFeaturedProjects();

@@ -2,13 +2,14 @@ import { getAllProjects } from "@/actions/project.action";
 import ProjectsList from "@/app/admin/_components/projects-list";
 import AddProjectModal from "@/app/admin/_components/add-project-modal";
 import { Metadata } from "next";
+import { Project } from "@/drizzle/schemas/project.schema";
 
 export const metadata: Metadata = {
   title: "Mahorat Soft | Projects",
 };
 
 export default async function ProjectsPage() {
-  let allProjects = [];
+  let allProjects: Project[] = [];
   
   try {
     allProjects = await getAllProjects();
